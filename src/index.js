@@ -83,4 +83,5 @@ class Game extends React.Component {
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<Game />);
 // мы добавили строчку для теста с гитом
-let a //еще один тест с гитом
+let a //еще один тест с гитом ))привет
+let b
